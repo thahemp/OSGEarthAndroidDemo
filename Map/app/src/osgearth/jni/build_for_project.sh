@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_PATH=/home/midcon1/GIT-repos/OSGEarthAndroidDemo
+BASE_PATH=/home/midcon1/downloads/OSGEarthAndroidDemo
 
 ndk-build -j8
 echo "Removing old shared libraries from Map project folder..."
